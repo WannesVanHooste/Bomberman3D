@@ -1,5 +1,5 @@
 #include "stdafx.h"
-#include <vld.h>
+//#include <vld.h>
 #include "MainGame.h"
 #include <dxgidebug.h>
 
